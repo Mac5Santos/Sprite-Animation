@@ -1,0 +1,21 @@
+#main{
+	background:url(img.png) 0px 0px; 
+	height: 120px;
+	width: 115px;
+	margin: 0 auto;
+}
+#play{
+	background:url(play.png); 
+	background-size: cover;
+	height: 95px;
+	width: 135px;
+	margin-left: 591px;
+}
+#stop{
+	background:url(stop.png); 
+	background-size: cover;
+	height: 135px;
+	width: 135px;
+	margin-left: 591px;
+	margin-top: 10px;
+}
